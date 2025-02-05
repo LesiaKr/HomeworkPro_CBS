@@ -1,0 +1,15 @@
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\bin\Debug\net8.0\task_6.exe
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\bin\Debug\net8.0\task_6.deps.json
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\bin\Debug\net8.0\task_6.runtimeconfig.json
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\bin\Debug\net8.0\task_6.dll
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\bin\Debug\net8.0\task_6.pdb
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\task_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\task_6.AssemblyInfoInputs.cache
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\task_6.AssemblyInfo.cs
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\task_6.csproj.CoreCompileInputs.cache
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\task_6.sourcelink.json
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\task_6.dll
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\refint\task_6.dll
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\task_6.pdb
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\task_6.genruntimeconfig.cache
+D:\навчання С#\Матеріали курсу C# для професіоналів-20250125\HomeworkPro_CBS\Lesson4\task_6\obj\Debug\net8.0\ref\task_6.dll
